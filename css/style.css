@@ -94,7 +94,7 @@ img {
 }
 .section-1{
 	background-image: url(../images/section-1-bg.jpg);
-	background-position: center right;
+	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding-bottom: 10px;

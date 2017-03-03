@@ -17,6 +17,11 @@
         line-height: 43px;
         padding-bottom: 15px;
     }
+    .image_hovef img{
+        width:100%;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
 
 }
 @media (max-width: 992px){
