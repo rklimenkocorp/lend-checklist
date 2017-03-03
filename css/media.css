@@ -1,0 +1,27 @@
+
+@media (max-width: 382px){
+    .osob_block__text b {
+        font-size: 18px;
+    }
+}
+@media (max-width: 576px){
+    .section1_title p {
+        font-size: 41px;
+    }
+    .title_big_orange {
+        font-size: 29px;
+    }
+}
+@media (max-width: 768px){
+    .title_italic{
+        line-height: 43px;
+        padding-bottom: 15px;
+    }
+
+}
+@media (max-width: 992px){
+    .form_titile{
+        line-height: 39px;
+        margin-bottom: 15px;
+    }
+}
