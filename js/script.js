@@ -170,3 +170,13 @@ $(document).ready(function () {
         }
     });
 });
+
+
+$(window).scroll(function(event) {
+    if($(this).scrollTop() > 150) {
+        $("header.header").removeClass('d-none')
+    }
+    else {
+        $("header.header").addClass('d-none')
+    }
+});
